@@ -8,4 +8,4 @@
         - query strings and parameters
         - done by mimicing normal goggle search
 
-## live demo : [here](https://gauravjayaraj.github.io/google-homepage/)
+## live demo : [here](https://gauravjayaraj.github.io/google_homepage/)
