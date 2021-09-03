@@ -1,0 +1,73 @@
+body{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+.top-nav{
+    margin-bottom: 200px;
+}
+
+.top-nav ul{
+    list-style-type: none;
+    display: block;
+
+    padding: 20px 10px 20px 10px;
+}
+
+.top-nav li{
+    position: relative;
+    left: 1720px;
+    display: inline-block;
+}
+
+
+.profile-pic{
+    border-radius:50%;
+}
+
+.logo-container{
+    margin-bottom: 10px;;
+}
+
+.center {
+    position: relative;
+    left: 700px;
+    /* border: 3px solid green; */
+  }
+
+
+
+#searchbar{
+    background-color: transparent;
+    border-color: black;
+    border-radius: 24px;
+    width: 450px;
+    height: 34px;
+
+    margin-top: 0px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.submit{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #202529;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
